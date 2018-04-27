@@ -1,0 +1,9 @@
+title = "Super Mario Maker"
+description = "The game is about creating your own mario platformer."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001A0400"
+region = "usa"
+release_date = "2016-12-02"
