@@ -1,5 +1,5 @@
 title = "Super Mario Maker"
-description = "The game is about creating your own mario platformer."
+description = "The game is about creating your own mario platformer. The game is currently unable to get past the start screen."
 needs_system_files = false
 needs_shared_font = false
 
