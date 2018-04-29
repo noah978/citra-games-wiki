@@ -1,7 +1,7 @@
 title = "Super Mario Maker for Nintendo 3DS"
 description = "Super Mario Maker is a side-scrolling platform game and game creation system developed and published by Nintendo. It is a port of the 2015 Wii U title Super Mario Maker."
 github_issues = [2446]
-needs_system_files = false
+needs_system_files = true
 needs_shared_font = false
 
 [[releases]]
